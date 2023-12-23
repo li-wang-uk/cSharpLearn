@@ -1,0 +1,14 @@
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/bin/Debug/net8.0/CsharpLearn
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/bin/Debug/net8.0/CsharpLearn.deps.json
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/bin/Debug/net8.0/CsharpLearn.runtimeconfig.json
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/bin/Debug/net8.0/CsharpLearn.dll
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/bin/Debug/net8.0/CsharpLearn.pdb
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/obj/Debug/net8.0/CsharpLearn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/obj/Debug/net8.0/CsharpLearn.AssemblyInfoInputs.cache
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/obj/Debug/net8.0/CsharpLearn.AssemblyInfo.cs
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/obj/Debug/net8.0/CsharpLearn.csproj.CoreCompileInputs.cache
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/obj/Debug/net8.0/CsharpLearn.dll
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/obj/Debug/net8.0/refint/CsharpLearn.dll
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/obj/Debug/net8.0/CsharpLearn.pdb
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/obj/Debug/net8.0/CsharpLearn.genruntimeconfig.cache
+/Users/li/Projects/cSharpLearn/CsharpLearn/CsharpLearn/obj/Debug/net8.0/ref/CsharpLearn.dll
